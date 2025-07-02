@@ -17688,4 +17688,11 @@
     "description": "Copy the system absolute path of files and folders to the clipboard.",
     "repo": "Alb-O/obsidian-copy-absolute-path"
   }
+    {
+    "id": "spirits-book",
+    "name": "The Spirit's Book",
+    "author": "Antonio Henrique",
+    "description": "Study and explore the Spirits' Book with search, random questions, and favorites — directly inside Obsidian.",
+    "repo": "ahlrodrigues/spirits-book"
+  }
 ]
